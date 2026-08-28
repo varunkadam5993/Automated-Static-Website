@@ -382,7 +382,7 @@ Static Website
 
 ## 👨‍💻 Author
 
-**Aniket Pawar**
+**Varun Kadam**
 
 
 ---
